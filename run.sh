@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# script to run executables, to install dependencies or add configurations
+
 script_dir="$(cd $(dirname "${BASH_SOURCE[0]}") && pwd)"
 filter=""
 dry="0"

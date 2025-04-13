@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# script to create/copy config files
+
 script_dir="$(cd $(dirname "${BASH_SOURCE[0]}") && pwd)"
 dry="0"
 

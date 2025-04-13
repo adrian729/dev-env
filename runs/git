@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+git config user.name "adrian729"
+git config user.email adrian.sanchez.albanell@gmail.com
+# TODO: check multi account config and create template for the ssh configs, example: https://www.howtogeek.com/devops/how-to-manage-multiple-git-accounts-on-one-system/
+# Alternative example (diff approach): https://www.freecodecamp.org/news/how-to-handle-multiple-git-configurations-in-one-machine/
